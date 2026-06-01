@@ -26,6 +26,7 @@ To build a C program that prints integer, float,character, and string literals o
 ### Step 4: 
    Stop
 # Program:
+```
 #include <stdio.h>
 
 int main() { printf("Integer Literal: %d\n", 100); printf("Float Literal: %.2f\n", 25.75); printf("Character Literal: %c\n", 'A'); printf("String Literal: %s\n", "C Programming");
@@ -39,7 +40,7 @@ return 0;
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
-
+```
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd
 # IAPR-1- Module 1 - FoC
 # Ex.No:2
