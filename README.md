@@ -67,6 +67,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 6:  
   Stop
 # Program:
+```
 #include <stdio.h>
 
 #define PI 3.14
@@ -78,6 +79,7 @@ printf("Constant Variable MAX = %d\n", MAX);
 
 return 0;
 }
+```
 # Output:
 <img width="1198" height="431" alt="image" src="https://github.com/user-attachments/assets/38caf26b-ec16-4d85-8dab-9247dd03442a" />
 
@@ -104,6 +106,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 5:    
    Stop
 # Program:
+```
 #include <stdio.h>
 
 int main() { int number = 10;
@@ -118,6 +121,7 @@ printf("Character value: %c\n", grade);
 
 return 0;
 }
+```
 # Output:
 <img width="1228" height="497" alt="image" src="https://github.com/user-attachments/assets/37058f33-d952-44f6-816e-3c90105a683f" />
 
@@ -160,6 +164,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+```
 #include <stdio.h>
 
 int main() { int a = 10, b = 20;
@@ -182,6 +187,7 @@ printf("NOT (~a) = %d\n", ~a);
 
 return 0;
 }
+```
 # Output:
 <img width="432" height="597" alt="image" src="https://github.com/user-attachments/assets/feeddfc1-e923-4a47-ac39-7a2d6e7bc2f7" />
 
@@ -229,6 +235,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+```
 #include <stdio.h>
 
 int main() { char ch = 'A';
@@ -244,6 +251,7 @@ int main() { char ch = 'A';
 
 return 0;
 }
+```
 # Output:
 <img width="1200" height="526" alt="image" src="https://github.com/user-attachments/assets/589a85db-4638-48d3-aa30-17740067d870" />
 
